@@ -45,3 +45,4 @@ python3 main.py
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * `Special Thanks Dump Group Members`🤣
+* All Credits Associated to Dark Angel & Team
